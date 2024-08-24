@@ -18,11 +18,6 @@ A simple web application to check the current weather of any city, implemented u
 
 This project is a simple web application that allows users to check the current weather of any city. It uses an external weather API to fetch the weather data and displays it in a clean and user-friendly interface.
 
-## Screenshots
-
-![Weather_Checker](https://github.com/user-attachments/assets/1ecb8a1c-29e7-4085-9f5b-187c4e635742)
-![image](https://github.com/user-attachments/assets/b5508bdc-f374-437b-83e0-9277848e29d0)
-
 
 ## Built With
 
