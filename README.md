@@ -51,9 +51,4 @@ You need a modern web browser to run this application and an API key from a weat
 2. Simple and clean user interface
 3. Responsive design
    
-## Contact
-Email - alsharath66@gmail.com<br>
-LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
 
-## Project Link
-https://github.com/sharath453/Whether_checker.git
