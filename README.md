@@ -2,7 +2,7 @@
 
 A simple web application to check the current weather of any city, implemented using HTML, CSS, JavaScript, and an external weather API.
 
-## Table of Contents
+## Table of contents
 
 - [About the Project](#about-the-project)
 - [Screenshots](#screenshots)
